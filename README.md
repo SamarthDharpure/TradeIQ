@@ -1,6 +1,6 @@
 # 📈 TradeIQ – AI-Powered Stock Market Predictor  
 
-🚀 **TradeIQ** is a machine learning-powered stock market prediction platform designed to analyze financial data and predict stock prices with high accuracy. Built with **Python, Scikit-learn, TensorFlow, and Streamlit**, it enables users to explore, visualize, and forecast stock trends in real time.  
+**TradeIQ** is a machine learning-powered stock market prediction platform designed to analyze financial data and predict stock prices with high accuracy. Built with **Python, Scikit-learn, TensorFlow, and Streamlit**, it enables users to explore, visualize, and forecast stock trends in real time.  
 
 ## ✨ Features  
 
